@@ -35,8 +35,8 @@ dependencies {
     testImplementation('org.junit.jupiter:junit-jupiter:5.9.0')
 
     //Allure
-    testImplementation('io.qameta.allure:allure-selenide:2.19.0')
-    testImplementation('io.qameta.allure:allure-rest-assured:2.19.0')
+    testImplementation('io.qameta.allure:allure-selenide:2.20.0')
+    testImplementation('io.qameta.allure:allure-rest-assured:2.20.0')
 
     //API
     testImplementation('io.rest-assured:rest-assured:5.2.0')
